@@ -8,14 +8,12 @@
 
 <div align="center">
 
-<img src="./banner-horizontal.gif" width="533" alt="Mesa de trabalho animada" />
-
-<br/><br/>
-
 <img src="https://img.shields.io/github/followers/IcaropLira?label=SEGUIDORES&style=flat-square&logo=github&color=1e3a5f" alt="Seguidores" />
 <img src="https://img.shields.io/github/stars/IcaropLira?label=STARS&style=flat-square&logo=github&color=1e3a5f" alt="Stars" />
 
 </div>
+
+<img align="right" src="./banner-vertical.gif" width="300" alt="Mesa de trabalho animada" />
 
 Olá, sou **Ícaro Pinto Lira** — Estudante de Ciência da Computação na Universidade Federal de Campina Grande.
 
@@ -37,6 +35,8 @@ Olá, sou **Ícaro Pinto Lira** — Estudante de Ciência da Computação na Uni
 - 🎨 Afinidade com desenvolvimento artístico e familiaridade com ferramentas criativas
 
 </details>
+
+<br clear="right"/>
 
 ## 🧰 Tecnologias
 
