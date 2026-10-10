@@ -4,18 +4,12 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e3a5f,100:38bdf8&height=220&section=header&text=%C3%8Dcaro%20Pinto%20Lira&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%7B%20Desenvolvedor%20%7D&descSize=18&descAlignY=62" width="100%" alt="Banner" />
+<img src="./banner.gif" width="100%" alt="Ícaro Pinto Lira — Desenvolvedor" />
 
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/IcaropLira?label=SEGUIDORES&style=flat-square&logo=github&color=1e3a5f" alt="Seguidores" />
 <img src="https://img.shields.io/github/stars/IcaropLira?label=STARS&style=flat-square&logo=github&color=1e3a5f" alt="Stars" />
-
-</div>
-
-<div align="center">
-
-<img src="./banner-vertical.gif" width="360" alt="Mesa de trabalho animada" />
 
 </div>
 
