@@ -13,7 +13,11 @@
 
 </div>
 
-<img align="right" src="./banner-vertical.gif" width="300" alt="Mesa de trabalho animada" />
+<div align="center">
+
+<img src="./banner-vertical.gif" width="360" alt="Mesa de trabalho animada" />
+
+</div>
 
 Olá, sou **Ícaro Pinto Lira** — Estudante de Ciência da Computação na Universidade Federal de Campina Grande.
 
@@ -35,8 +39,6 @@ Olá, sou **Ícaro Pinto Lira** — Estudante de Ciência da Computação na Uni
 - 🎨 Afinidade com desenvolvimento artístico e familiaridade com ferramentas criativas
 
 </details>
-
-<br clear="right"/>
 
 ## 🧰 Tecnologias
 
