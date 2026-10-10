@@ -8,7 +8,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=IcaropLira&label=VISITAS&color=0e75b6&style=flat-square" alt="Visitas" />
 <img src="https://img.shields.io/github/followers/IcaropLira?label=SEGUIDORES&style=flat-square&logo=github&color=1e3a5f" alt="Seguidores" />
 <img src="https://img.shields.io/github/stars/IcaropLira?label=STARS&style=flat-square&logo=github&color=1e3a5f" alt="Stars" />
 
@@ -26,10 +25,13 @@ Olá, sou **Ícaro Pinto Lira** — Estudante de Ciência da Computação na Uni
 
 <details>
 <summary>💡 Um pouco mais sobre mim</summary>
+
 <br/>
-- 🏆 Programação competitiva: Medalhista olímpico e participante de maratonas e olimpíadas <br/>
-- 🏗️ Conhecimento multidisciplinar e produção de ferramentas com uso na construção civil.<br/>
-- 🎨 Afinidade com desenvolvimento artístico e familiaridade com ferramentas criativas.<br/>
+
+- 🏆 Programação competitiva: medalhista olímpico e participante de maratonas e olimpíadas
+- 🏗️ Conhecimento multidisciplinar e produção de ferramentas com uso na construção civil
+- 🎨 Afinidade com desenvolvimento artístico e familiaridade com ferramentas criativas
+
 </details>
 
 ## 🧰 Tecnologias
@@ -55,15 +57,15 @@ Olá, sou **Ícaro Pinto Lira** — Estudante de Ciência da Computação na Uni
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IcaropLira&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%" alt="Gráfico de atividades" />
+<img src="https://ghchart.rshah.org/38bdf8/IcaropLira" width="95%" alt="Contribuições" />
 
 </div>
 
-## 🏆 Troféus
+## 🐍 Cobrinha das contribuições
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IcaropLira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus" />
+<img src="https://raw.githubusercontent.com/IcaropLira/IcaropLira/output/github-snake-dark.svg" width="95%" alt="Cobrinha comendo as contribuições" />
 
 </div>
 
