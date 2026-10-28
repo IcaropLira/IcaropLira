@@ -39,7 +39,7 @@ Tenho interesse em unir fundamentos sólidos de computação com aplicações pr
 
 - [Currículo Lattes](http://lattes.cnpq.br/6203706384757208)
 - [Portfólio pessoal](https://portifolio-six-mu-61.vercel.app/)
-
+- [Portfólio Projetos](https://icaropintolira.vercel.app/)
 </details>
 
 ---
